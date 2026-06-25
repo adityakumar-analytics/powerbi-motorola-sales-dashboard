@@ -94,7 +94,7 @@ The objective of this dashboard is to provide business stakeholders with an inte
 
 
 
-(Add your dashboard image here)
+![Motorola Sales Dashboard](MOBILE_SALES_DASHBOARD_IMAGE.png)
 
 ---
 
